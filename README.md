@@ -2,4 +2,4 @@ Code and data to the paper ["Simulating superconductivity in mixed-dimensional $
 
 Using Gutzwiller-projected Hidden Fermion Pfaffian States, we study the mixed-dimensional bilayer model, see below
 
-![Bilayer model](Fig1.pdf)
+![Bilayer model](MixD.png)

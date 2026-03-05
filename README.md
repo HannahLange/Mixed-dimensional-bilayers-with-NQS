@@ -3,7 +3,7 @@ Code and data to the paper ["Simulating superconductivity in mixed-dimensional $
 Using Gutzwiller-projected Hidden Fermion Pfaffian States, we study the mixed-dimensional bilayer model
 
 $$
-\begin{aligned}
+\begin{align}
 \mathcal{H} ={}&
 -t_\parallel \sum_{\langle \mathbf{i},\mathbf{j} \rangle,\mu,\sigma}
 \hat{\mathcal{P}}_G
@@ -24,7 +24,7 @@ $$
 \hat{\mathbf{S}}_{\mathbf{i},0}\cdot \hat{\mathbf{S}}_{\mathbf{i},1}
 -\frac{1}{4}\hat{n}_{\mathbf{i},0}\hat{n}_{\mathbf{i},1}
 \right).
-\end{aligned}
+\end{align}
 $$
 
 Here $\hat{c}^{(\dagger)}_{\mathbf{i},\mu,\sigma}$ annihilates (creates) a fermion

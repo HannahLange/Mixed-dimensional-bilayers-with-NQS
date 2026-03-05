@@ -3,6 +3,5 @@ Code and data to the paper ["Simulating superconductivity in mixed-dimensional $
 Using Gutzwiller-projected Hidden Fermion Pfaffian States, we study the mixed-dimensional bilayer model
 $$
 \mathcal{H} = 
- 
 $$
 with $\hat{c}^{(\dagger)}_{\mathbf{i},\mu,\sigma}$ the annihilation (creation) operators for fermions in layer $\mu=0,1$ and with spin $\sigma=\pm 1/2$, and $\mathbf{\hat{S}}_{\mathbf{i},\mu}$ ($\hat{n}_{\mathbf{i},\mu} $) the respective spin (density) operators.
